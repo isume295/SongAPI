@@ -1,0 +1,25 @@
+{
+  "name": "songapi",
+  "version": "1.0.0",
+  "description": "SongManager API is a powerful and flexible RESTful service designed to efficiently manage information for songs. It provides a comprehensive set of endpoints and functionalities to create, retrieve, update, and delete song data, enabling seamless integration with various music applications and services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isume295/SongAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isume295/SongAPI/issues"
+  },
+  "homepage": "https://github.com/isume295/SongAPI#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
