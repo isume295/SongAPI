@@ -4,6 +4,7 @@
   "description": "SongManager API is a powerful and flexible RESTful service designed to efficiently manage information for songs. It provides a comprehensive set of endpoints and functionalities to create, retrieve, update, and delete song data, enabling seamless integration with various music applications and services",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
