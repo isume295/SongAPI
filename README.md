@@ -4,6 +4,8 @@
 
   <h1><b>Welcome to My internship test project</b></h1>
 
+  please find the front-end repo for this project [here](https://github.com/isume295/front-Mysongs)
+
 </div>
 
 <div align="center">
@@ -27,7 +29,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
