@@ -20,8 +20,8 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🤯 Walk through video ](#walk-through)
-  - [🚀 Live Demo ](#-live-demo-)
+  <!-- - [🤯 Walk through video ](#walk-through)
+  - [🚀 Live Demo ](#-live-demo-) -->
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
