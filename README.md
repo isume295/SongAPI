@@ -176,8 +176,6 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by justicon - Flaticon</a><br />
-
 - Thanks to Addis Software
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
