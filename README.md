@@ -150,7 +150,7 @@ To run the project, execute the following command:
 
 Future changes:
 
-- Add more models
+- Store audio file for each song
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
