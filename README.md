@@ -113,7 +113,7 @@ For more information on how to clone or fork a repository:
 - <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">How to clone a repo</a>
 - <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">How to fork a repo</a>
 
-To add a .env file in the root directory with the provided information, follow these instructions:
+Add a .env file in the root directory with the provided information, follow these instructions:
 
 - Open a text editor or an integrated development environment (IDE) of your choice.
 - Create a new file and save it in the root directory of your project (the top-level directory).
