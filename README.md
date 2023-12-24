@@ -127,13 +127,13 @@ SERVER_PORT=your host number
 
 ### Install
 
-- Run `npm install`
+- Run `docker build -t isume295/songapp:1.2 .`
 
 ### Usage
 
 To run the project, execute the following command:
 
-- Run `npm start`
+- Run `docker run -p 9090:9090 isume295/songapp:1.2`
 
 <!-- AUTHORS -->
 
